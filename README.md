@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Victor</h1>
 <h3 align="center">A passionate machine learning engineer</h3>
 
+![image](https://github.com/VictorRios-hub/VictorRios-hub/assets/99796369/69cf428e-7544-40c1-9c97-c9707cb65a7c)
+
 - 🌱 I’m currently learning Three.js **Three.js journey**
 
 - 📫 How to reach me **vic.rios84@gmail.com**
