@@ -8,9 +8,6 @@
 1. **Paper : LivePose Portal** - Democratize immersive arts by having participants train both themselves and the deep-learning models for camera-based group interactivity in a portal before entering the show !
    - [Project Repository](https://github.com/VictorRios-hub/LivePose_Portal)
 
-![Paper](https://github.com/VictorRios-hub/LivePose_Portal/blob/main/LivePosePortalSIGGRAPH2023-abstract-submitted_page-0001.jpg)
-![Paper](https://github.com/VictorRios-hub/LivePose_Portal/blob/main/LivePosePortalSIGGRAPH2023-abstract-submitted_page-0001.jpg)
-
 2. **Biometrics_face_identification** - Design of a robust face identification system from static images (in gray level) We will study different classifiers (K-NN, SVM, CNNs), the impacts of different dimensionality reduction algorithms …
    - [Project Repository](https://github.com/VictorRios-hub/Biometrics_face_identification)
 
