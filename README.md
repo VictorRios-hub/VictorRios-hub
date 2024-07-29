@@ -3,7 +3,7 @@
   <img src="https://github.com/VictorRios-hub/VictorRios-hub/assets/99796369/fc50ceeb-e484-4719-9123-d4a56b20571b" alt="Victor's Image" style="display: block; margin: 0 auto; width: 50%; max-width: 200px;">
 </h1>
 
-### 🛠️ Projects
+### 🛠️ Last projects
 
 1. **Paper : LivePose Portal** - Democratize immersive arts by having participants train both themselves and the deep-learning models for camera-based group interactivity in a portal before entering the show !
    - [Project Repository](https://github.com/VictorRios-hub/LivePose_Portal)
