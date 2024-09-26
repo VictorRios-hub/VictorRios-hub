@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Victor</h1>
+<h1 align="center">Hi there, it's Victor</h1>
   <h1 align="center">
   <img src="https://github.com/VictorRios-hub/VictorRios-hub/assets/99796369/fc50ceeb-e484-4719-9123-d4a56b20571b" alt="Victor's Image" style="display: block; margin: 0 auto; width: 50%; max-width: 200px;">
 </h1>
