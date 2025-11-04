@@ -6,6 +6,8 @@
 ### 🛠️ Research projects
 
 - [**AI_swing_analysis**](https://github.com/VictorRios-hub/AI_swing_analysis) - Golf swing analysis through swing sequencing and human pose estimation
+  
+- [**MoE_finetuning**](https://github.com/VictorRios-hub/MoE_finetuning) - Finetuning IBM Granite MoE 1.3B with Reinforcement Learning GRPO on GSM8K dataset
 
 - [**Paper : LivePose Portal**](https://github.com/VictorRios-hub/LivePose_Portal) - Democratize immersive arts by having participants train both themselves and the deep-learning models for camera-based group interactivity in a portal before entering the show !
     - Submitted and presented at the [Mozilla Responsible AI Challenge](https://sat-mtl.gitlab.io/metalab/presentations/2023-LivePosePortal-MozillaResponsibleAI/) in San Francisco (May 2023) 
