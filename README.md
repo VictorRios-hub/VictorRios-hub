@@ -15,7 +15,3 @@
 - [**Biometrics_face_identification**](https://github.com/VictorRios-hub/Biometrics_face_identification) - Design of a robust face identification system from static images (in gray level) We will study different classifiers (K-NN, SVM, CNNs), the impacts of different dimensionality reduction algorithms …
 
 - [**Exoskeleton_SynapsETS**](https://github.com/VictorRios-hub/Exoskeleton_SynapsETS) - Developed an exoskeleton for the APPLIED COLLEGIATE EXOSKELETON (ACE) competition in Detroit, Michigan (2023) with SynapsETS : IMU based movement detection and PWM driven brushless motor
-
-- [**Maya_3Dscene**](https://github.com/VictorRios-hub/Maya_3Dscene) - Modeling, texturing, shading, animation and FX of a 3D scene in Maya using Arnold renderer
-
-- [**D-id_Streaming_Chatgpt**](https://github.com/VictorRios-hub/D-id_Streaming_Chatgpt) - ChatGPT and D-ID link in order to respond to queries during a live stream featuring dynamic facial expressions
